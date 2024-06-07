@@ -67,5 +67,154 @@
  
  
  }
- 
 
+ .container{
+
+
+      width: 100%;
+      height: auto;
+      border: 1px solid red;
+      margin-top: 18px;
+
+ }
+
+ .my-image{
+
+  border: 1px solid red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+
+
+ }
+ 
+ .my-image img{
+
+
+  width: 400px;
+  height: 400px;
+  border: 1px solid white;
+  border-radius: 100%;
+ }
+ 
+ .my-details {
+
+  border: 1px solid red;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+ }
+
+ .details{
+  border: 1px solid red;
+  text-align: center;
+  padding: 20px;
+
+ }
+
+ .details > p{
+
+
+   font: 200;
+
+
+
+ }
+ 
+ .details  h2{
+
+
+  font: 900;
+  font: bold;
+
+
+
+}
+
+
+.details > h3{
+
+
+  font: 200;
+  text-transform: uppercase;
+
+
+
+
+}
+
+.buttons{
+
+  padding: 5px;
+}
+
+
+.about-me{
+
+width: 100%;
+text-align: center;
+margin-top: 10px;
+
+}
+.container{
+
+  border: 1px solid red;
+  height: auto;
+}
+
+ 
+.side-image{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+   
+.experience-edu{
+  width: 100%;
+  border: 1px solid red;
+  display: flex;
+  margin-top: 100px;
+  
+  
+}
+
+
+.box {
+
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+
+.icon-image img{
+
+width: 40px;
+
+}
+
+.description{
+ 
+  margin-top: 45px;
+
+}
+
+
+
+
+
+
+.side-image img{
+
+
+ width: 450px;
+ border: 2px solid gray;
+
+}
